@@ -35,8 +35,11 @@ A simple RESTful web application built with **Express.js** and **EJS** that allo
 📦 Dependencies
 
 -express
+
 -ejs
+
 -method-override
+
 -uuid
 
 
